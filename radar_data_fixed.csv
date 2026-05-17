@@ -1,0 +1,43 @@
+age_group,dimension,dimension_order,score
+<18 years old,Strength,0,3.32
+<18 years old,Roast Intensity,1,2.58
+<18 years old,Caffeine,2,4.67
+<18 years old,Taste Enjoyment,3,4.67
+<18 years old,Coffee Expertise,4,2.61
+<18 years old,Strength,5,3.32
+18-24 years old,Strength,0,3.58
+18-24 years old,Roast Intensity,1,2.64
+18-24 years old,Caffeine,2,4.73
+18-24 years old,Taste Enjoyment,3,4.87
+18-24 years old,Coffee Expertise,4,2.97
+18-24 years old,Strength,5,3.58
+25-34 years old,Strength,0,3.58
+25-34 years old,Roast Intensity,1,2.54
+25-34 years old,Caffeine,2,4.78
+25-34 years old,Taste Enjoyment,3,4.88
+25-34 years old,Coffee Expertise,4,3.14
+25-34 years old,Strength,5,3.58
+35-44 years old,Strength,0,3.63
+35-44 years old,Roast Intensity,1,2.57
+35-44 years old,Caffeine,2,4.75
+35-44 years old,Taste Enjoyment,3,4.9
+35-44 years old,Coffee Expertise,4,3.2
+35-44 years old,Strength,5,3.63
+45-54 years old,Strength,0,3.61
+45-54 years old,Roast Intensity,1,2.79
+45-54 years old,Caffeine,2,4.7
+45-54 years old,Taste Enjoyment,3,4.88
+45-54 years old,Coffee Expertise,4,3.05
+45-54 years old,Strength,5,3.61
+55-64 years old,Strength,0,3.67
+55-64 years old,Roast Intensity,1,3.09
+55-64 years old,Caffeine,2,4.76
+55-64 years old,Taste Enjoyment,3,4.95
+55-64 years old,Coffee Expertise,4,2.97
+55-64 years old,Strength,5,3.67
+>65 years old,Strength,0,3.63
+>65 years old,Roast Intensity,1,3.1
+>65 years old,Caffeine,2,4.53
+>65 years old,Taste Enjoyment,3,4.84
+>65 years old,Coffee Expertise,4,2.71
+>65 years old,Strength,5,3.63
