@@ -1,0 +1,43 @@
+age_group,dimension,dimension_order,score
+18-24 years old,Bitter,0,3.1
+18-24 years old,Strong,1,3.6
+18-24 years old,Sweet,2,3.5
+18-24 years old,Taste Enjoyment,3,4.9
+18-24 years old,Coffee Expertise,4,3.0
+18-24 years old,Bitter,5,3.1
+25-34 years old,Bitter,0,3.4
+25-34 years old,Strong,1,3.6
+25-34 years old,Sweet,2,3.1
+25-34 years old,Taste Enjoyment,3,4.9
+25-34 years old,Coffee Expertise,4,3.1
+25-34 years old,Bitter,5,3.4
+35-44 years old,Bitter,0,3.6
+35-44 years old,Strong,1,3.6
+35-44 years old,Sweet,2,2.8
+35-44 years old,Taste Enjoyment,3,4.9
+35-44 years old,Coffee Expertise,4,3.2
+35-44 years old,Bitter,5,3.6
+45-54 years old,Bitter,0,3.7
+45-54 years old,Strong,1,3.6
+45-54 years old,Sweet,2,2.5
+45-54 years old,Taste Enjoyment,3,4.9
+45-54 years old,Coffee Expertise,4,3.1
+45-54 years old,Bitter,5,3.7
+55-64 years old,Bitter,0,3.9
+55-64 years old,Strong,1,3.7
+55-64 years old,Sweet,2,2.2
+55-64 years old,Taste Enjoyment,3,4.95
+55-64 years old,Coffee Expertise,4,3.0
+55-64 years old,Bitter,5,3.9
+<18 years old,Bitter,0,2.8
+<18 years old,Strong,1,2.6
+<18 years old,Sweet,2,3.9
+<18 years old,Taste Enjoyment,3,4.7
+<18 years old,Coffee Expertise,4,2.6
+<18 years old,Bitter,5,2.8
+>65 years old,Bitter,0,3.8
+>65 years old,Strong,1,3.6
+>65 years old,Sweet,2,2.1
+>65 years old,Taste Enjoyment,3,4.8
+>65 years old,Coffee Expertise,4,2.7
+>65 years old,Bitter,5,3.8
