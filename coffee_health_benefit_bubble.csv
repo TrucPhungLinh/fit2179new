@@ -1,0 +1,9 @@
+benefit,evidence_score,perception_score,share_drinkers,category,quadrant,short_note
+Alertness,92,86,84,Cognitive,Belief & evidence,Caffeine blocks adenosine receptors; strongest evidence/perception match.
+Focus,72,70,58,Cognitive,Belief & evidence,Moderate evidence for attention/cognitive performance.
+Mood,60,78,63,Emotional,Belief > evidence,Often perceived strongly; evidence is mixed/moderate.
+Routine,43,74,68,Lifestyle,Belief > evidence,Morning habit/ritual value is mostly experiential.
+Social,38,82,71,Lifestyle,Belief > evidence,Coffee is strongly perceived as a social pause.
+Antioxidants,68,52,52,Physical,Evidence > belief,Coffee contains polyphenols/chlorogenic acids; public awareness is lower.
+Metabolism,55,42,36,Physical,Evidence > belief,"Some evidence for metabolic associations, but not the main reason people drink it."
+Heart health,48,34,30,Physical,Under-discussed,"Umbrella reviews find many beneficial associations, but public perception is lower."
