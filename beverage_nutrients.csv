@@ -1,0 +1,27 @@
+beverage,nutrient,amount,unit,daily_value_pct
+Black Coffee,Antioxidants (ORAC),6672,µmol TE,95
+Black Coffee,Caffeine,95,mg,
+Black Coffee,Potassium,116,mg,2
+Black Coffee,Magnesium,7,mg,2
+Black Coffee,Niacin (B3),0.5,mg,3
+Black Coffee,Riboflavin (B2),0.2,mg,15
+Black Coffee,Polyphenols,350,mg,
+Green Tea,Antioxidants (ORAC),3008,µmol TE,43
+Green Tea,Caffeine,28,mg,
+Green Tea,EGCG Catechins,200,mg,
+Green Tea,Potassium,20,mg,0
+Green Tea,Magnesium,3,mg,1
+Green Tea,Fluoride,0.2,mg,
+Green Tea,Polyphenols,200,mg,
+Orange Juice,Antioxidants (ORAC),1742,µmol TE,25
+Orange Juice,Caffeine,0,mg,
+Orange Juice,Vitamin C,124,mg,138
+Orange Juice,Potassium,496,mg,11
+Orange Juice,Folate,74,µg,19
+Orange Juice,Polyphenols,90,mg,
+Milk,Antioxidants (ORAC),96,µmol TE,1
+Milk,Caffeine,0,mg,
+Milk,Calcium,305,mg,23
+Milk,Protein,8,g,16
+Milk,Vitamin D,3,µg,15
+Milk,Polyphenols,0,mg,
