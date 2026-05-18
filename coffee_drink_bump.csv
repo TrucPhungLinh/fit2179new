@@ -1,0 +1,57 @@
+age_group,drink,count,rank
+<18 years old,Latte,8,1
+<18 years old,Pourover,5,2
+<18 years old,Regular drip coffee,2,3
+<18 years old,Cappuccino,1,4
+<18 years old,Espresso,1,5
+<18 years old,Cortado,0,6
+<18 years old,Iced coffee,0,7
+<18 years old,Mocha,0,8
+18-24 years old,Pourover,103,1
+18-24 years old,Latte,81,2
+18-24 years old,Cortado,40,3
+18-24 years old,Espresso,38,4
+18-24 years old,Regular drip coffee,36,5
+18-24 years old,Cappuccino,32,6
+18-24 years old,Iced coffee,30,7
+18-24 years old,Mocha,21,8
+25-34 years old,Pourover,566,1
+25-34 years old,Latte,347,2
+25-34 years old,Regular drip coffee,196,3
+25-34 years old,Cortado,172,4
+25-34 years old,Cappuccino,168,5
+25-34 years old,Espresso,158,6
+25-34 years old,Iced coffee,82,7
+25-34 years old,Mocha,51,8
+35-44 years old,Pourover,273,1
+35-44 years old,Latte,152,2
+35-44 years old,Regular drip coffee,95,3
+35-44 years old,Cappuccino,84,4
+35-44 years old,Espresso,84,5
+35-44 years old,Cortado,73,6
+35-44 years old,Iced coffee,29,7
+35-44 years old,Mocha,26,8
+45-54 years old,Pourover,78,1
+45-54 years old,Latte,46,2
+45-54 years old,Regular drip coffee,41,3
+45-54 years old,Cappuccino,31,4
+45-54 years old,Espresso,27,5
+45-54 years old,Cortado,15,6
+45-54 years old,Mocha,11,7
+45-54 years old,Iced coffee,8,8
+55-64 years old,Regular drip coffee,40,1
+55-64 years old,Pourover,38,2
+55-64 years old,Latte,32,3
+55-64 years old,Cappuccino,17,4
+55-64 years old,Espresso,13,5
+55-64 years old,Cortado,8,6
+55-64 years old,Iced coffee,6,7
+55-64 years old,Mocha,6,8
+>65 years old,Regular drip coffee,32,1
+>65 years old,Pourover,17,2
+>65 years old,Latte,13,3
+>65 years old,Cappuccino,8,4
+>65 years old,Espresso,8,5
+>65 years old,Mocha,3,6
+>65 years old,Cortado,2,7
+>65 years old,Iced coffee,1,8
