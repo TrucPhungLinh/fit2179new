@@ -1,0 +1,11 @@
+rank,name,origin,price_usd,price_aud,badge,au_favourite
+1,Black Ivory,Thailand,2100,3213,rare,False
+2,Kopi Luwak,Indonesia,1300,1989,process,False
+3,Hacienda La Esmeralda Geisha,Panama,850,1301,rare,False
+4,Saint Helena,St. Helena,540,826,rare,False
+5,Jamaican Blue Mountain,Jamaica,380,581,experience,False
+6,Hawaiian Kona,"Hawaii, USA",320,490,experience,False
+7,Finca El Injerto,Guatemala,290,444,luxury,False
+8,Yemen Mocha Matari,Yemen,240,367,process,False
+9,Yirgacheffe Reserve,Ethiopia,210,321,experience,True
+10,Sulawesi Toraja,Indonesia,180,275,luxury,False
