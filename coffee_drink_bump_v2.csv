@@ -1,0 +1,29 @@
+age_group,drink,count,rank
+<18 years old,Flat White,22,1
+<18 years old,Latte,30,2
+<18 years old,Cappuccino,14,4
+<18 years old,Iced Coffee,24,3
+18-24 years old,Flat White,42,1
+18-24 years old,Latte,38,2
+18-24 years old,Cappuccino,18,4
+18-24 years old,Iced Coffee,35,3
+25-34 years old,Flat White,95,1
+25-34 years old,Latte,78,2
+25-34 years old,Cappuccino,42,3
+25-34 years old,Iced Coffee,38,4
+35-44 years old,Flat White,110,1
+35-44 years old,Latte,72,3
+35-44 years old,Cappuccino,88,2
+35-44 years old,Iced Coffee,28,4
+45-54 years old,Flat White,95,1
+45-54 years old,Latte,58,3
+45-54 years old,Cappuccino,82,2
+45-54 years old,Iced Coffee,18,4
+55-64 years old,Flat White,72,2
+55-64 years old,Latte,48,3
+55-64 years old,Cappuccino,88,1
+55-64 years old,Iced Coffee,12,4
+>65 years old,Flat White,55,2
+>65 years old,Latte,35,3
+>65 years old,Cappuccino,72,1
+>65 years old,Iced Coffee,8,4
