@@ -1,0 +1,31 @@
+cups_per_day,cup_label,ring_order,outcome,outcome_order,category,risk_reduction_percent,evidence_note,source_basis
+0,0 cups,0,Cardiovascular disease,0,Heart,0,Reference group,Dose-response meta-analysis: lowest CVD risk around 3–5 cups/day
+1,1 cup,1,Cardiovascular disease,0,Heart,8,Small reduction associated with low intake,Adapted from dose-response pattern
+2,2 cups,2,Cardiovascular disease,0,Heart,14,Risk reduction increases,Adapted from dose-response pattern
+3,3 cups,3,Cardiovascular disease,0,Heart,20,Near the moderate-intake sweet spot,Lowest CVD risk around 3–5 cups/day
+4,4 cups,4,Cardiovascular disease,0,Heart,21,Sweet spot remains strong,Lowest CVD risk around 3–5 cups/day
+5,5+ cups,5,Cardiovascular disease,0,Heart,15,Benefit may flatten at higher intake,Heavy consumption not clearly higher risk in meta-analysis
+0,0 cups,0,Type 2 diabetes,1,Metabolic,0,Reference group,Meta-analyses report inverse association with coffee intake
+1,1 cup,1,Type 2 diabetes,1,Metabolic,7,Small reduction associated with low intake,Approximate educational value based on published dose-response summaries
+2,2 cups,2,Type 2 diabetes,1,Metabolic,14,Risk reduction increases,Approximate educational value based on published dose-response summaries
+3,3 cups,3,Type 2 diabetes,1,Metabolic,20,Moderate intake shows stronger association,Approximate educational value based on published dose-response summaries
+4,4 cups,4,Type 2 diabetes,1,Metabolic,25,Stronger association at moderate-high intake,Approximate educational value based on published dose-response summaries
+5,5+ cups,5,Type 2 diabetes,1,Metabolic,27,Association may continue but should not imply causation,Approximate educational value based on published dose-response summaries
+0,0 cups,0,Liver disease,2,Liver,0,Reference group,Umbrella review reports strong beneficial associations for liver outcomes
+1,1 cup,1,Liver disease,2,Liver,10,Early reduction associated with intake,Approximate educational value based on umbrella review summaries
+2,2 cups,2,Liver disease,2,Liver,20,Stronger association,Approximate educational value based on umbrella review summaries
+3,3 cups,3,Liver disease,2,Liver,30,One of the strongest benefit zones,Approximate educational value based on umbrella review summaries
+4,4 cups,4,Liver disease,2,Liver,35,Highest shown association in this dataset,Approximate educational value based on umbrella review summaries
+5,5+ cups,5,Liver disease,2,Liver,32,Benefit remains high but uncertainty increases,Approximate educational value based on umbrella review summaries
+0,0 cups,0,Stroke,3,Heart,0,Reference group,US dietary evidence review: lowest stroke risk around 3–4 cups/day
+1,1 cup,1,Stroke,3,Heart,6,Small reduction associated with low intake,Adapted from dose-response pattern
+2,2 cups,2,Stroke,3,Heart,12,Moderate reduction,Adapted from dose-response pattern
+3,3 cups,3,Stroke,3,Heart,18,Near the lowest-risk zone,Lowest risk around 3–4 cups/day
+4,4 cups,4,Stroke,3,Heart,19,Sweet spot remains strong,Lowest risk around 3–4 cups/day
+5,5+ cups,5,Stroke,3,Heart,13,Benefit may flatten at higher intake,Higher intakes not clearly associated with higher stroke risk
+0,0 cups,0,All-cause mortality,4,Mortality,0,Reference group,Umbrella review: largest risk reductions often at 3–4 cups/day
+1,1 cup,1,All-cause mortality,4,Mortality,5,Small reduction associated with low intake,Approximate educational value based on umbrella review summaries
+2,2 cups,2,All-cause mortality,4,Mortality,10,Moderate reduction,Approximate educational value based on umbrella review summaries
+3,3 cups,3,All-cause mortality,4,Mortality,16,Near the moderate-intake sweet spot,Largest risk reductions often at 3–4 cups/day
+4,4 cups,4,All-cause mortality,4,Mortality,17,Sweet spot remains strong,Largest risk reductions often at 3–4 cups/day
+5,5+ cups,5,All-cause mortality,4,Mortality,11,Benefit may flatten at higher intake,Interpret cautiously; observational association
