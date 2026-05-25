@@ -1,0 +1,31 @@
+place,state,latitude,longitude,cafe_culture_score,cafe_count_proxy,label_show,label_dx,label_dy,notes
+Melbourne (Inner),VIC,-37.814,144.963,96,4200,True,-12,-14,Birthplace of the flat white; highest café density in Australia
+Sydney (Inner),NSW,-33.869,151.209,82,3800,True,12,-14,Strong specialty scene; Surry Hills & Newtown are epicentres
+Brisbane (Inner),QLD,-27.47,153.026,71,1850,True,12,-8,Rapidly growing third-wave coffee culture since 2015
+Perth (Inner),WA,-31.952,115.861,74,1620,True,-14,-8,High per-capita spend; strong independent café scene
+Adelaide (Inner),SA,-34.929,138.601,65,1180,True,-14,8,Compact city with strong café strip culture on Hutt St & Rundle
+Canberra,ACT,-35.282,149.129,58,680,True,12,8,Government city with growing specialty coffee precinct
+Hobart,TAS,-42.882,147.329,62,380,True,12,8,Punches above its weight; MONA effect boosted hospitality scene
+Darwin,NT,-12.463,130.844,41,210,True,12,-8,Smaller market; tropical climate drives cold brew demand
+Fitzroy & Collingwood,VIC,-37.799,144.98,99,420,False,0,0,Highest café density in Australia; Australia's specialty coffee triangle
+St Kilda & South Yarra,VIC,-37.86,145.003,88,380,False,0,0,Beach-side café strip; strong brunch culture year-round
+Richmond & Hawthorn,VIC,-37.822,145.023,80,460,False,0,0,Busy café corridor along Bridge Rd and Church St
+Footscray,VIC,-37.8,144.9,76,260,False,0,0,Multicultural café scene; one of Melbourne's fastest-growing precincts
+Surry Hills & Newtown,NSW,-33.894,151.186,91,460,False,0,0,Sydney's specialty coffee heartland; highest third-wave density in NSW
+Manly & Northern Beaches,NSW,-33.797,151.287,72,380,False,0,0,Coastal café culture; strong brunch spend per capita
+Gold Coast,QLD,-28.017,153.4,60,720,False,0,0,Tourism-driven; large number of cafes per visitor
+Sunshine Coast,QLD,-26.65,153.066,67,480,False,0,0,Strong lifestyle café culture; Noosa is a specialty hotspot
+Noosa,QLD,-26.39,153.09,73,140,False,0,0,High café score relative to population; destination dining
+Cairns,QLD,-16.924,145.778,44,280,False,0,0,Tourism-dependent; café scene anchored around Esplanade
+Fremantle,WA,-32.057,115.747,83,310,False,0,0,WA's most café-dense suburb; strong independent roaster scene
+Margaret River,WA,-33.953,115.075,79,80,False,0,0,Wine-region café culture; very high score per capita
+Geelong,VIC,-38.147,144.36,52,480,False,0,0,Fastest-growing regional café count in Victoria 2017–2024
+Ballarat,VIC,-37.562,143.849,44,220,False,0,0,Strong heritage café strip on Sturt St
+Bendigo,VIC,-36.758,144.282,41,180,False,0,0,Growing regional scene supported by arts tourism
+Newcastle,NSW,-32.927,151.777,54,540,False,0,0,Hunter Valley gateway; strong café corridor on Hunter St
+Byron Bay,NSW,-28.643,153.614,78,120,False,0,0,Lifestyle destination; very high specialty and cold brew penetration
+Orange,NSW,-33.283,149.1,55,110,False,0,0,NSW's most cited regional café destination; food & wine region
+Wollongong,NSW,-34.424,150.894,46,320,False,0,0,Coastal city with growing café strip culture
+Glenelg & Norwood,SA,-34.921,138.537,58,220,False,0,0,Adelaide's most active café corridors outside CBD
+Launceston,TAS,-41.438,147.135,48,160,False,0,0,Growing specialty scene; Harvest Market anchor for café culture
+Alice Springs,NT,-23.698,133.88,29,60,False,0,0,Small but growing café offering for a remote centre
