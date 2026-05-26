@@ -1,0 +1,31 @@
+intake_level,intake_order,outcome,category,risk_change_pct,evidence_strength,direction,tooltip_note,source,mechanism
+0 cups/day,0,Type 2 diabetes,Metabolic,0,1,Reference,Reference group for comparison in observational studies.,Reference group,Reference baseline
+0 cups/day,0,Cardiovascular mortality,Heart,0,1,Reference,Reference group for comparison in observational studies.,Reference group,Reference baseline
+0 cups/day,0,All-cause mortality,Longevity,0,1,Reference,Reference group for comparison in observational studies.,Reference group,Reference baseline
+0 cups/day,0,Liver cancer / HCC,Liver,0,1,Reference,Reference group for comparison in observational studies.,Reference group,Reference baseline
+0 cups/day,0,Parkinson's disease,Brain,0,1,Reference,Reference group for comparison in observational studies.,Reference group,Reference baseline
+0 cups/day,0,Sleep & anxiety risk,Sleep / Mental,0,1,Reference,Reference group for comparison in observational studies.,Reference group,Reference baseline
+1 cup/day,1,Type 2 diabetes,Metabolic,-6,4,Reduced risk,Meta-analysis reported about 6% lower T2D risk per additional cup/day.,Carlström et al. 2018 meta-analysis,Glucose metabolism
+1 cup/day,1,Cardiovascular mortality,Heart,-7,3,Reduced risk,Small inverse association; strongest estimates appear around 3 cups/day.,Ding et al. 2014 dose-response meta-analysis / Harvard summary,Cardiometabolic pathways
+1 cup/day,1,All-cause mortality,Longevity,-4,3,Reduced risk,Dietary guideline review reported about 3–4% lower mortality per cup/day.,US DGAC evidence review,Mixed pathways
+1 cup/day,1,Liver cancer / HCC,Liver,-15,4,Reduced risk,Meta-analysis found roughly 15% lower liver cancer risk per additional cup/day.,Godos et al. 2017 meta-analysis,Liver enzymes and inflammation
+1 cup/day,1,Parkinson's disease,Brain,-10,3,Reduced risk,"Dose-response evidence suggests protection, with maximum benefit around 3 cups/day.",Qi et al. 2014 meta-analysis,Caffeine and neuroprotection
+1 cup/day,1,Sleep & anxiety risk,Sleep / Mental,5,2,Increased risk,"Low caffeine may affect sensitive sleepers, especially if consumed late.",Sleep Foundation / caffeine-anxiety meta-analysis,Adenosine blocking
+2–3 cups/day,2,Type 2 diabetes,Metabolic,-15,4,Reduced risk,Estimated from dose-response evidence: risk falls with higher habitual intake.,Carlström et al. 2018 meta-analysis,Glucose metabolism
+2–3 cups/day,2,Cardiovascular mortality,Heart,-21,4,Reduced risk,Summary evidence reports around 21% lower cardiovascular mortality at about 3 cups/day.,Coffee and health dose-response summary / Harvard,Cardiometabolic pathways
+2–3 cups/day,2,All-cause mortality,Longevity,-12,4,Reduced risk,Moderate intake is associated with lower all-cause mortality in dose-response summaries.,BMJ umbrella review / mortality meta-analysis,Mixed pathways
+2–3 cups/day,2,Liver cancer / HCC,Liver,-35,4,Reduced risk,Extra two cups/day associated with about 35% lower HCC risk in a dose-response meta-analysis.,Kennedy et al. 2017 BMJ Open,Liver enzymes and inflammation
+2–3 cups/day,2,Parkinson's disease,Brain,-28,3,Reduced risk,Dose-response meta-analysis reported the strongest protective association near 3 cups/day.,Qi et al. 2014 meta-analysis,Caffeine and neuroprotection
+2–3 cups/day,2,Sleep & anxiety risk,Sleep / Mental,12,2,Increased risk,Risk depends strongly on timing and sensitivity; late caffeine can reduce sleep quality.,Sleep Foundation / caffeine-anxiety meta-analysis,Adenosine blocking
+3–4 cups/day,3,Type 2 diabetes,Metabolic,-22,4,Reduced risk,Approximate visual estimate from a 6% lower risk per additional cup/day dose-response.,Carlström et al. 2018 meta-analysis,Glucose metabolism
+3–4 cups/day,3,Cardiovascular mortality,Heart,-18,4,Reduced risk,Benefit appears strong around moderate intake but may plateau.,Coffee and health dose-response summary / BMJ umbrella review,Cardiometabolic pathways
+3–4 cups/day,3,All-cause mortality,Longevity,-16,4,Reduced risk,Dose-response summary reported largest all-cause mortality reduction around 4 cups/day.,Ding et al. 2014 dose-response meta-analysis,Mixed pathways
+3–4 cups/day,3,Liver cancer / HCC,Liver,-40,4,Reduced risk,High coffee intake is consistently associated with lower liver cancer risk.,Kennedy et al. 2017 / liver cancer meta-analyses,Liver enzymes and inflammation
+3–4 cups/day,3,Parkinson's disease,Brain,-25,3,Reduced risk,Protection may plateau after the approximate 3-cup sweet spot.,Qi et al. 2014 meta-analysis,Caffeine and neuroprotection
+3–4 cups/day,3,Sleep & anxiety risk,Sleep / Mental,25,3,Increased risk,Higher caffeine exposure is more likely to disturb sleep or anxiety symptoms.,Sleep Foundation / Liu et al. 2024 meta-analysis,Adenosine blocking
+5+ cups/day,4,Type 2 diabetes,Metabolic,-28,3,Reduced risk,"Highest categories are still associated with lower T2D risk, but this is observational.",Carlström et al. 2018 meta-analysis,Glucose metabolism
+5+ cups/day,4,Cardiovascular mortality,Heart,-10,3,Mixed / plateau,Potential benefit may plateau or reverse at very high intake for some people.,BMJ umbrella review,Cardiometabolic pathways
+5+ cups/day,4,All-cause mortality,Longevity,-8,3,Mixed / plateau,High intake may be less clearly beneficial than moderate intake.,BMJ umbrella review,Mixed pathways
+5+ cups/day,4,Liver cancer / HCC,Liver,-42,3,Reduced risk,"Some studies report lower HCC risk in higher-intake groups, but estimates vary.",HCC meta-analysis summaries,Liver enzymes and inflammation
+5+ cups/day,4,Parkinson's disease,Brain,-18,2,Mixed / plateau,Benefit may not keep increasing beyond moderate intake.,Qi et al. 2014 meta-analysis,Caffeine and neuroprotection
+5+ cups/day,4,Sleep & anxiety risk,Sleep / Mental,40,4,Increased risk,"High caffeine intake is more likely to affect sleep and anxiety, especially late in the day.",Sleep Foundation / Liu et al. 2024 meta-analysis,Adenosine blocking
