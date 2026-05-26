@@ -1,0 +1,16 @@
+country,region,tonnes_2022,tonnes_2023,tonnes_2024,bags_2022_k,bags_2023_k,bags_2024_k,unit,conversion_note
+Brazil,South America,2334000,2406000,2379300,38900,40100,39655,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+Vietnam,Asia,1650000,1572000,1582800,27500,26200,26380,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+Colombia,South America,774000,660000,690000,12900,11000,11500,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+Indonesia,Asia,636000,624000,660600,10600,10400,11010,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+Ethiopia,Africa,474000,516000,552000,7900,8600,9200,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+Honduras,Central America,396000,432000,450000,6600,7200,7500,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+Uganda,Africa,372000,384000,408000,6200,6400,6800,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+India,Asia,348000,366000,390000,5800,6100,6500,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+Peru,South America,252000,270000,294000,4200,4500,4900,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+Mexico,Central America,234000,246000,258000,3900,4100,4300,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+Guatemala,Central America,228000,240000,246000,3800,4000,4100,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+Cote d'Ivoire,Africa,192000,204000,222000,3200,3400,3700,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+Papua New Guinea,Oceania,66000,72000,78000,1100,1200,1300,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+Kenya,Africa,54000,57000,58800,900,950,980,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
+Tanzania,Africa,48000,51000,54000,800,850,900,tonnes,Converted from thousand 60-kg bags to tonnes: bags_k * 60.
