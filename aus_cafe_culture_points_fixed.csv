@@ -1,0 +1,15 @@
+place,state,latitude,longitude,cafe_culture_score,cafe_count_proxy,label_show,label_dx,label_dy,notes
+Melbourne (Inner),VIC,-37.814,144.963,96,4200,true,-18,-18,Dense inner-city cafe scene and strong specialty coffee identity
+Sydney (Inner),NSW,-33.869,151.209,82,3800,true,18,-18,Large cafe market with specialty clusters in inner suburbs
+Brisbane (Inner),QLD,-27.47,153.026,71,1850,true,18,-12,Growing third-wave coffee culture in inner-city precincts
+Perth (Inner),WA,-31.952,115.861,74,1620,true,-20,-10,Strong independent cafe and roaster presence
+Adelaide (Inner),SA,-34.929,138.601,65,1180,true,-18,14,Compact city with visible cafe strip culture
+Canberra,ACT,-35.282,149.129,58,680,true,18,15,Growing specialty coffee market in a smaller city
+Hobart,TAS,-42.882,147.329,62,380,true,18,12,Small but distinctive cafe culture
+Darwin,NT,-12.463,130.844,41,210,true,18,-10,Smaller market with tropical cold drink demand
+Fitzroy & Collingwood,VIC,-37.799,144.98,99,420,false,0,0,Iconic Melbourne specialty coffee cluster
+Surry Hills & Newtown,NSW,-33.894,151.186,91,460,false,0,0,Sydney inner-suburb specialty coffee heartland
+Fremantle,WA,-32.057,115.747,83,310,false,0,0,Independent cafe and roaster culture near Perth
+Byron Bay,NSW,-28.643,153.614,78,120,false,0,0,Lifestyle destination with strong specialty cafe visibility
+Noosa,QLD,-26.39,153.09,73,140,false,0,0,High cafe culture score relative to population
+Margaret River,WA,-33.953,115.075,79,80,false,0,0,Tourism and food culture support a strong cafe scene
