@@ -1,0 +1,59 @@
+place,state,latitude,longitude,cafes_per_100km2,cafe_count_proxy,analysis_area_km2,dot_represents
+Sydney CBD,NSW,-33.8688,151.2093,2850,2850,100,1 dot ≈ 2850 cafés per 100 km²
+Surry Hills,NSW,-33.8882,151.2107,2100,2100,100,1 dot ≈ 2100 cafés per 100 km²
+Newtown,NSW,-33.8978,151.1793,1800,1800,100,1 dot ≈ 1800 cafés per 100 km²
+Glebe,NSW,-33.8793,151.1866,1650,1650,100,1 dot ≈ 1650 cafés per 100 km²
+Bondi,NSW,-33.8915,151.2767,1400,1400,100,1 dot ≈ 1400 cafés per 100 km²
+Parramatta,NSW,-33.8150,151.0011,850,850,100,1 dot ≈ 850 cafés per 100 km²
+Chatswood,NSW,-33.7969,151.1826,780,780,100,1 dot ≈ 780 cafés per 100 km²
+Manly,NSW,-33.7969,151.2863,720,720,100,1 dot ≈ 720 cafés per 100 km²
+Cronulla,NSW,-34.0563,151.1524,420,420,100,1 dot ≈ 420 cafés per 100 km²
+Penrith,NSW,-33.7511,150.6942,280,280,100,1 dot ≈ 280 cafés per 100 km²
+Melbourne CBD,VIC,-37.8136,144.9631,3200,3200,100,1 dot ≈ 3200 cafés per 100 km²
+Fitzroy,VIC,-37.7996,144.9780,2600,2600,100,1 dot ≈ 2600 cafés per 100 km²
+Collingwood,VIC,-37.8044,144.9872,2400,2400,100,1 dot ≈ 2400 cafés per 100 km²
+Brunswick,VIC,-37.7710,144.9612,2200,2200,100,1 dot ≈ 2200 cafés per 100 km²
+Richmond,VIC,-37.8176,144.9991,1950,1950,100,1 dot ≈ 1950 cafés per 100 km²
+South Yarra,VIC,-37.8381,144.9930,1700,1700,100,1 dot ≈ 1700 cafés per 100 km²
+Prahran,VIC,-37.8497,144.9919,1550,1550,100,1 dot ≈ 1550 cafés per 100 km²
+St Kilda,VIC,-37.8678,144.9817,1350,1350,100,1 dot ≈ 1350 cafés per 100 km²
+Carlton,VIC,-37.7987,144.9665,1200,1200,100,1 dot ≈ 1200 cafés per 100 km²
+Hawthorn,VIC,-37.8226,145.0318,980,980,100,1 dot ≈ 980 cafés per 100 km²
+Northcote,VIC,-37.7718,145.0003,870,870,100,1 dot ≈ 870 cafés per 100 km²
+Footscray,VIC,-37.7993,144.8993,650,650,100,1 dot ≈ 650 cafés per 100 km²
+Geelong,VIC,-38.1499,144.3617,380,380,100,1 dot ≈ 380 cafés per 100 km²
+Ballarat,VIC,-37.5622,143.8503,220,220,100,1 dot ≈ 220 cafés per 100 km²
+Brisbane CBD,QLD,-27.4705,153.0260,1900,1900,100,1 dot ≈ 1900 cafés per 100 km²
+Fortitude Valley,QLD,-27.4564,153.0350,1600,1600,100,1 dot ≈ 1600 cafés per 100 km²
+West End,QLD,-27.4795,153.0143,1400,1400,100,1 dot ≈ 1400 cafés per 100 km²
+New Farm,QLD,-27.4630,153.0507,1200,1200,100,1 dot ≈ 1200 cafés per 100 km²
+South Brisbane,QLD,-27.4810,153.0204,1050,1050,100,1 dot ≈ 1050 cafés per 100 km²
+Toowong,QLD,-27.4882,152.9823,750,750,100,1 dot ≈ 750 cafés per 100 km²
+Paddington,QLD,-27.4611,153.0066,680,680,100,1 dot ≈ 680 cafés per 100 km²
+Gold Coast,QLD,-28.0167,153.4000,520,520,100,1 dot ≈ 520 cafés per 100 km²
+Sunshine Coast,QLD,-26.6500,153.0667,340,340,100,1 dot ≈ 340 cafés per 100 km²
+Cairns,QLD,-16.9186,145.7781,280,280,100,1 dot ≈ 280 cafés per 100 km²
+Townsville,QLD,-19.2590,146.8169,190,190,100,1 dot ≈ 190 cafés per 100 km²
+Perth CBD,WA,-31.9505,115.8605,1600,1600,100,1 dot ≈ 1600 cafés per 100 km²
+Northbridge,WA,-31.9430,115.8566,1400,1400,100,1 dot ≈ 1400 cafés per 100 km²
+Leederville,WA,-31.9337,115.8424,1100,1100,100,1 dot ≈ 1100 cafés per 100 km²
+Subiaco,WA,-31.9483,115.8268,950,950,100,1 dot ≈ 950 cafés per 100 km²
+Fremantle,WA,-32.0569,115.7439,820,820,100,1 dot ≈ 820 cafés per 100 km²
+Mount Lawley,WA,-31.9262,115.8690,700,700,100,1 dot ≈ 700 cafés per 100 km²
+Victoria Park,WA,-31.9742,115.8960,580,580,100,1 dot ≈ 580 cafés per 100 km²
+Cottesloe,WA,-31.9946,115.7511,480,480,100,1 dot ≈ 480 cafés per 100 km²
+Adelaide CBD,SA,-34.9285,138.6007,1350,1350,100,1 dot ≈ 1350 cafés per 100 km²
+Norwood,SA,-34.9196,138.6349,1000,1000,100,1 dot ≈ 1000 cafés per 100 km²
+Unley,SA,-34.9467,138.5922,850,850,100,1 dot ≈ 850 cafés per 100 km²
+Glenelg,SA,-34.9828,138.5155,650,650,100,1 dot ≈ 650 cafés per 100 km²
+North Adelaide,SA,-34.9094,138.5973,720,720,100,1 dot ≈ 720 cafés per 100 km²
+Hobart CBD,TAS,-42.8821,147.3272,980,980,100,1 dot ≈ 980 cafés per 100 km²
+Battery Point,TAS,-42.8894,147.3330,820,820,100,1 dot ≈ 820 cafés per 100 km²
+North Hobart,TAS,-42.8726,147.3196,680,680,100,1 dot ≈ 680 cafés per 100 km²
+Salamanca,TAS,-42.8887,147.3306,750,750,100,1 dot ≈ 750 cafés per 100 km²
+Canberra CBD,ACT,-35.2809,149.1300,1100,1100,100,1 dot ≈ 1100 cafés per 100 km²
+Braddon,ACT,-35.2722,149.1354,950,950,100,1 dot ≈ 950 cafés per 100 km²
+Kingston,ACT,-35.3131,149.1448,780,780,100,1 dot ≈ 780 cafés per 100 km²
+Manuka,ACT,-35.3183,149.1327,680,680,100,1 dot ≈ 680 cafés per 100 km²
+Darwin CBD,NT,-12.4634,130.8456,750,750,100,1 dot ≈ 750 cafés per 100 km²
+Parap,NT,-12.4224,130.8478,520,520,100,1 dot ≈ 520 cafés per 100 km²
