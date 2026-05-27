@@ -1,0 +1,6 @@
+origin,origin_lon,origin_lat,destination,destination_lon,destination_lat,import_value_usd_million,rank,label_lon,label_lat,label_dx,label_dy,curve_offset,highlight,source_url
+Brazil,-51.9253,-14.235,Australia,133.7751,-25.2744,125.0,1,-63,-20,0,0,-95,source,https://oec.world/en/profile/bilateral-product/coffee/reporter/aus
+Switzerland,8.2275,46.8182,Australia,133.7751,-25.2744,115.0,2,-6,51,0,0,-105,source,https://oec.world/en/profile/bilateral-product/coffee/reporter/aus
+Colombia,-74.2973,4.5709,Australia,133.7751,-25.2744,67.4,3,-93,8,0,0,-60,source,https://oec.world/en/profile/bilateral-product/coffee/reporter/aus
+Vietnam,108.2772,14.0583,Australia,133.7751,-25.2744,58.9,4,118,13,0,0,-35,source,https://oec.world/en/profile/bilateral-product/coffee/reporter/aus
+Papua New Guinea,143.9555,-6.315,Australia,133.7751,-25.2744,36.6,5,151,-7,0,0,35,source,https://oec.world/en/profile/bilateral-product/coffee/reporter/aus
