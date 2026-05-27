@@ -1,0 +1,33 @@
+flow_id,year,origin,origin_iso3,origin_region,origin_lat,origin_lon,destination,destination_iso3,destination_region,destination_lat,destination_lon,dest_consumption_kg_per_capita,total_dest_import_volume_tonnes,import_volume_tonnes,link_width_group,source_note,import_share_of_destination_pct,dest_node_size,link_width
+DEU_BRA_2023,2023,Brazil,BRA,South America,-14.235,-51.9253,Germany,DEU,Europe,51.1657,10.4515,5.4,698600,376648,Very large,"WITS/UN Comtrade HS090111 exports to Germany, 2023",53.9,458.0,6.83
+DEU_VNM_2023,2023,Vietnam,VNM,Asia,14.0583,108.2772,Germany,DEU,Europe,51.1657,10.4515,5.4,698600,155843,Large,"WITS/UN Comtrade HS090111 exports to Germany, 2023",22.3,458.0,3.29
+DEU_HND_2023,2023,Honduras,HND,Central America,15.2,-86.2419,Germany,DEU,Europe,51.1657,10.4515,5.4,698600,67086,Medium,"WITS/UN Comtrade HS090111 exports to Germany, 2023",9.6,458.0,1.87
+DEU_COL_2023,2023,Colombia,COL,South America,4.5709,-74.2973,Germany,DEU,Europe,51.1657,10.4515,5.4,698600,41255,Medium,"WITS/UN Comtrade HS090111 exports to Germany, 2023",5.9,458.0,1.46
+DEU_UGA_2023,2023,Uganda,UGA,Africa,1.3733,32.2903,Germany,DEU,Europe,51.1657,10.4515,5.4,698600,57769,Medium,"WITS/UN Comtrade HS090111 exports to Germany, 2023",8.3,458.0,1.72
+USA_BRA_2023,2023,Brazil,BRA,South America,-14.235,-51.9253,United States,USA,North America,37.0902,-95.7129,5.0,1390000,500000,Very large,Estimated from 2023 unroasted coffee supplier pattern; USDA ERS notes Brazil and Colombia are dominant Latin American suppliers,36.0,430.0,8.8
+USA_COL_2023,2023,Colombia,COL,South America,4.5709,-74.2973,United States,USA,North America,37.0902,-95.7129,5.0,1390000,390000,Very large,Estimated from 2023 unroasted coffee supplier pattern; USDA ERS notes Colombia is a major U.S. supplier,28.1,430.0,7.04
+USA_VNM_2023,2023,Vietnam,VNM,Asia,14.0583,108.2772,United States,USA,North America,37.0902,-95.7129,5.0,1390000,125000,Large,Estimated top supplier flow for visualisation,9.0,430.0,2.8
+USA_HND_2023,2023,Honduras,HND,Central America,15.2,-86.2419,United States,USA,North America,37.0902,-95.7129,5.0,1390000,90000,Medium,Estimated top supplier flow for visualisation,6.5,430.0,2.24
+USA_GTM_2023,2023,Guatemala,GTM,Central America,15.7835,-90.2308,United States,USA,North America,37.0902,-95.7129,5.0,1390000,75000,Medium,Estimated top supplier flow for visualisation,5.4,430.0,2.0
+ITA_BRA_2023,2023,Brazil,BRA,South America,-14.235,-51.9253,Italy,ITA,Europe,41.8719,12.5674,5.9,660000,260000,Very large,Estimated from major 2023 coffee trade partners; values are designed for comparative flow thickness,39.4,493.0,4.96
+ITA_VNM_2023,2023,Vietnam,VNM,Asia,14.0583,108.2772,Italy,ITA,Europe,41.8719,12.5674,5.9,660000,180000,Large,Estimated from major 2023 coffee trade partners; values are designed for comparative flow thickness,27.3,493.0,3.68
+ITA_UGA_2023,2023,Uganda,UGA,Africa,1.3733,32.2903,Italy,ITA,Europe,41.8719,12.5674,5.9,660000,70000,Medium,Estimated top supplier flow for visualisation,10.6,493.0,1.92
+ITA_IND_2023,2023,India,IND,Asia,20.5937,78.9629,Italy,ITA,Europe,41.8719,12.5674,5.9,660000,60000,Medium,Estimated top supplier flow for visualisation,9.1,493.0,1.76
+ITA_IDN_2023,2023,Indonesia,IDN,Asia,-0.7893,113.9213,Italy,ITA,Europe,41.8719,12.5674,5.9,660000,50000,Medium,Estimated top supplier flow for visualisation,7.6,493.0,1.6
+JPN_BRA_2023,2023,Brazil,BRA,South America,-14.235,-51.9253,Japan,JPN,Asia,36.2048,138.2529,3.4,370000,110000,Large,Estimated from major 2023 coffee import partner pattern,29.7,318.0,2.56
+JPN_COL_2023,2023,Colombia,COL,South America,4.5709,-74.2973,Japan,JPN,Asia,36.2048,138.2529,3.4,370000,60000,Medium,Estimated top supplier flow for visualisation,16.2,318.0,1.76
+JPN_VNM_2023,2023,Vietnam,VNM,Asia,14.0583,108.2772,Japan,JPN,Asia,36.2048,138.2529,3.4,370000,50000,Medium,Estimated top supplier flow for visualisation,13.5,318.0,1.6
+JPN_GTM_2023,2023,Guatemala,GTM,Central America,15.7835,-90.2308,Japan,JPN,Asia,36.2048,138.2529,3.4,370000,30000,Small,Estimated top supplier flow for visualisation,8.1,318.0,1.28
+JPN_ETH_2023,2023,Ethiopia,ETH,Africa,9.145,40.4897,Japan,JPN,Asia,36.2048,138.2529,3.4,370000,25000,Small,Estimated top supplier flow for visualisation,6.8,318.0,1.2
+CAN_COL_2023,2023,Colombia,COL,South America,4.5709,-74.2973,Canada,CAN,North America,56.1304,-106.3468,6.8,210000,60000,Medium,Estimated top supplier flow for visualisation,28.6,556.0,1.76
+CAN_BRA_2023,2023,Brazil,BRA,South America,-14.235,-51.9253,Canada,CAN,North America,56.1304,-106.3468,6.8,210000,55000,Medium,Estimated top supplier flow for visualisation,26.2,556.0,1.68
+CAN_GTM_2023,2023,Guatemala,GTM,Central America,15.7835,-90.2308,Canada,CAN,North America,56.1304,-106.3468,6.8,210000,25000,Small,Estimated top supplier flow for visualisation,11.9,556.0,1.2
+CAN_PER_2023,2023,Peru,PER,South America,-9.19,-75.0152,Canada,CAN,North America,56.1304,-106.3468,6.8,210000,20000,Small,Estimated top supplier flow for visualisation,9.5,556.0,1.12
+FIN_BRA_2023,2023,Brazil,BRA,South America,-14.235,-51.9253,Finland,FIN,Europe,61.9241,25.7482,11.8,76000,45000,Small,High per-capita consumption destination; flow volume estimated for visual comparison,59.2,906.0,1.52
+FIN_COL_2023,2023,Colombia,COL,South America,4.5709,-74.2973,Finland,FIN,Europe,61.9241,25.7482,11.8,76000,15000,Small,High per-capita consumption destination; flow volume estimated for visual comparison,19.7,906.0,1.04
+NOR_BRA_2023,2023,Brazil,BRA,South America,-14.235,-51.9253,Norway,NOR,Europe,60.472,8.4689,9.9,35000,12000,Small,ECF reports Norway among highest per-capita consuming countries; flow volume estimated,34.3,773.0,0.99
+NOR_COL_2023,2023,Colombia,COL,South America,4.5709,-74.2973,Norway,NOR,Europe,60.472,8.4689,9.9,35000,5000,Small,ECF reports Norway among highest per-capita consuming countries; flow volume estimated,14.3,773.0,0.88
+AUS_BRA_2023,2023,Brazil,BRA,South America,-14.235,-51.9253,Australia,AUS,Oceania,-25.2744,133.7751,2.1,97000,35000,Small,Based on Australia green coffee import pattern; for visual comparison,36.1,227.0,1.36
+AUS_COL_2023,2023,Colombia,COL,South America,4.5709,-74.2973,Australia,AUS,Oceania,-25.2744,133.7751,2.1,97000,25000,Small,Based on Australia green coffee import pattern; for visual comparison,25.8,227.0,1.2
+AUS_VNM_2023,2023,Vietnam,VNM,Asia,14.0583,108.2772,Australia,AUS,Oceania,-25.2744,133.7751,2.1,97000,16000,Small,Based on Australia green coffee import pattern; for visual comparison,16.5,227.0,1.06
+AUS_PNG_2023,2023,Papua New Guinea,PNG,Oceania,-6.315,143.9555,Australia,AUS,Oceania,-25.2744,133.7751,2.1,97000,15000,Small,Based on Australia green coffee import pattern; for visual comparison,15.5,227.0,1.04
