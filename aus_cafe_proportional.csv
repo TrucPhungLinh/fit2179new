@@ -1,0 +1,31 @@
+place,state,latitude,longitude,cafe_count_proxy,analysis_area_km2,cafes_per_100km2,label_show,label_dx,label_dy
+Sydney,NSW,-33.868,151.209,4200,12367,34.0,true,18,-10
+Melbourne,VIC,-37.814,144.963,4800,9993,48.0,true,18,-10
+Brisbane,QLD,-27.47,153.026,2400,15842,15.1,true,18,-10
+Perth,WA,-31.951,115.861,2100,6418,32.7,true,-20,-10
+Adelaide,SA,-34.928,138.601,1600,3259,49.1,true,-20,-10
+Canberra,ACT,-35.281,149.13,750,1432,52.4,true,20,0
+Hobart,TAS,-42.882,147.327,520,1357,38.3,true,0,20
+Darwin,NT,-12.463,130.845,290,3162,9.2,true,0,-18
+Gold Coast,QLD,-28.017,153.4,820,1400,58.6,true,22,0
+Newcastle,NSW,-32.928,151.775,680,1385,49.1,true,20,0
+Wollongong,NSW,-34.424,150.893,480,684,70.2,false,0,-22
+Sunshine Coast,QLD,-26.65,153.067,420,2291,18.3,false,0,-22
+Geelong,VIC,-38.149,144.362,420,1247,33.7,false,0,-22
+Townsville,QLD,-19.259,146.817,210,1723,12.2,false,0,-22
+Cairns,QLD,-16.919,145.778,230,1687,13.6,false,0,-22
+Toowoomba,QLD,-27.561,151.953,190,901,21.1,false,0,-22
+Ballarat,VIC,-37.562,143.85,210,741,28.3,false,0,-22
+Bendigo,VIC,-36.756,144.278,190,620,30.6,false,0,-22
+Launceston,TAS,-41.432,147.137,185,902,20.5,false,0,-22
+Mackay,QLD,-21.145,149.187,130,742,17.5,false,0,-22
+Rockhampton,QLD,-23.38,150.511,120,629,19.1,false,0,-22
+Bunbury,WA,-33.327,115.638,150,614,24.4,false,0,-22
+Albury,NSW,-36.081,146.916,140,315,44.4,false,0,-22
+Wagga Wagga,NSW,-35.117,147.369,130,290,44.8,false,0,-22
+Maitland,NSW,-32.73,151.553,160,395,40.5,false,0,-22
+Alice Springs,NT,-23.7,133.87,85,1400,6.1,false,0,-22
+Fremantle,WA,-32.057,115.744,310,220,140.9,false,0,-22
+Mandurah,WA,-32.527,115.722,180,724,24.9,false,0,-22
+Hervey Bay,QLD,-25.29,152.85,140,388,36.1,false,0,-22
+Broken Hill,NSW,-31.956,141.467,45,134,33.6,false,0,-22
