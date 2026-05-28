@@ -1,0 +1,36 @@
+place,state,latitude,longitude,cafe_count_proxy,analysis_area_km2,cafes_per_100km2,label_show,label_dx,label_dy,notes
+Melbourne,VIC,-37.8136,144.9631,520,1080,48.1,true,34,-18,Highest large-city cafe concentration; strong laneway and specialty coffee culture.
+Sydney,NSW,-33.8688,151.2093,500,1250,40.0,true,32,-18,Large metropolitan cafe market with strong specialty coffee presence.
+Brisbane,QLD,-27.4698,153.0251,310,1450,21.4,true,36,-14,Growing inner-city cafe and brunch scene.
+Perth,WA,-31.9523,115.8613,285,980,29.1,true,-36,-12,Established urban cafe culture with specialty coffee venues.
+Adelaide,SA,-34.9285,138.6007,230,760,30.3,true,-38,-12,Compact city centre and inner suburbs support cafe concentration.
+Canberra,ACT,-35.2809,149.13,170,520,32.7,true,36,4,High cafe access relative to compact urban form.
+Hobart,TAS,-42.8821,147.3272,135,360,37.5,true,12,24,Tourism and local food culture support cafe concentration.
+Darwin,NT,-12.4634,130.8456,80,450,17.8,true,22,-18,Smaller cafe market with lower concentration.
+Gold Coast,QLD,-28.0167,153.4,190,680,27.9,false,20,14,Tourism-driven cafe and brunch scene along coastal areas.
+Newcastle,NSW,-32.9283,151.7817,160,430,37.2,false,28,0,Regional city with visible specialty coffee scene.
+Wollongong,NSW,-34.4278,150.8931,125,330,37.9,false,28,10,Coastal urban cafe cluster south of Sydney.
+Geelong,VIC,-38.1499,144.3617,135,380,35.5,false,-30,16,Regional Victorian cafe and brunch cluster.
+Sunshine Coast,QLD,-26.65,153.0667,125,620,20.2,false,20,-14,Coastal lifestyle and tourism support cafe demand.
+Cairns,QLD,-16.9186,145.7781,92,410,22.4,false,20,-12,Tourism-oriented cafe market in far north Queensland.
+Townsville,QLD,-19.2589,146.8183,75,420,17.9,false,20,-12,Smaller regional cafe concentration.
+Toowoomba,QLD,-27.5598,151.9507,88,310,28.4,false,-25,-12,Regional inland cafe cluster.
+Ballarat,VIC,-37.5622,143.8503,95,250,38.0,false,-24,14,Regional Victorian cafe culture with tourism influence.
+Bendigo,VIC,-36.757,144.2794,90,245,36.7,false,-22,14,Regional cafe scene supported by heritage tourism.
+Launceston,TAS,-41.4332,147.1441,85,230,37.0,false,20,-16,Regional Tasmanian food and cafe culture.
+Fremantle,WA,-32.0569,115.7439,130,90,144.4,false,-32,14,Small area with very high cafe density.
+Mandurah,WA,-32.536,115.742,70,280,25.0,false,-28,16,Coastal regional cafe market.
+Bunbury,WA,-33.3271,115.6414,72,260,27.7,false,-24,16,Regional WA cafe cluster.
+Albury,NSW,-36.0737,146.9135,68,180,37.8,false,24,12,Regional border-city cafe market.
+Wagga Wagga,NSW,-35.1082,147.3598,62,210,29.5,false,24,14,Inland regional cafe concentration.
+Maitland,NSW,-32.7331,151.5574,66,190,34.7,false,25,-10,Hunter region cafe cluster.
+Hervey Bay,QLD,-25.2882,152.7677,64,230,27.8,false,20,-12,Tourism-linked coastal cafes.
+Mackay,QLD,-21.1411,149.186,58,280,20.7,false,20,-12,Regional Queensland cafe market.
+Rockhampton,QLD,-23.3791,150.51,55,260,21.2,false,20,-12,Smaller regional cafe concentration.
+Alice Springs,NT,-23.698,133.8807,35,300,11.7,false,20,-12,Remote urban centre with lower cafe concentration.
+Broome,WA,-17.9614,122.2359,38,180,21.1,false,-22,-12,Tourism-related small cafe market.
+Byron Bay,NSW,-28.6474,153.602,105,75,140.0,false,28,8,Small area with very high cafe density and lifestyle tourism.
+Noosa,QLD,-26.398,153.09,88,95,92.6,false,24,-12,Tourism and lifestyle-driven cafe density.
+Margaret River,WA,-33.9537,115.0739,55,80,68.8,false,-28,18,"Food, wine and tourism-linked cafe culture."
+Port Macquarie,NSW,-31.4333,152.9,58,210,27.6,false,24,-12,Coastal regional cafe market.
+Coffs Harbour,NSW,-30.2963,153.1135,52,200,26.0,false,24,-12,Coastal regional cafe concentration.
