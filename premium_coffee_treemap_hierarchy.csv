@@ -1,0 +1,20 @@
+id,parent,rationale,item,visual_weight_pct,label_note
+root,,,Premium coffee,,
+Rare beans,root,Rare beans,Rare beans,,"Rarity, scarcity and unusual production create premium value"
+Single origin,root,Single origin,Single origin,,Origin reputation and terroir create premium value
+Experience venues,root,Experience venues,Experience venues,,"Premium value comes from tasting, service and hospitality experience"
+Special processing,root,Special processing,Special processing,,Experimental processing adds differentiation and perceived value
+Rare beans / Black Ivory,Rare beans,Rare beans,Black Ivory,12,Rarity + animal-assisted processing
+Rare beans / Kopi Luwak,Rare beans,Rare beans,Kopi Luwak,11,Novelty + scarce production
+Rare beans / St Helena,Rare beans,Rare beans,St Helena,7,Remote island origin
+Single origin / Panama Geisha,Single origin,Single origin,Panama Geisha,12,Auction prestige + floral cup profile
+Single origin / Jamaican Blue Mountain,Single origin,Single origin,Jamaican Blue Mountain,10,Protected origin + global recognition
+Single origin / Hawaiian Kona,Single origin,Single origin,Hawaiian Kona,8,Limited US island origin
+Single origin / Yemen Mocha,Single origin,Single origin,Yemen Mocha,6,Historic origin + limited supply
+Single origin / Yirgacheffe,Single origin,Single origin,Yirgacheffe,6,Recognisable Ethiopian origin
+Experience venues / Cupping rooms,Experience venues,Experience venues,Cupping rooms,7,Tasting-led premium experience
+Experience venues / Roastery bars,Experience venues,Experience venues,Roastery bars,5,On-site roasting + education
+Experience venues / Hotel service,Experience venues,Experience venues,Hotel service,4,Luxury hospitality context
+Special processing / Anaerobic natural,Special processing,Special processing,Anaerobic natural,5,Experimental fermentation profile
+Special processing / Carbonic maceration,Special processing,Special processing,Carbonic maceration,4,Wine-style fermentation method
+Special processing / Honey process,Special processing,Special processing,Honey process,3,Sweetness-focused processing
